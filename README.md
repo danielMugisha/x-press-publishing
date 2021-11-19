@@ -1,3 +1,4 @@
+https://coveralls.io/repos/github/danielMugisha/x-press-publishing/badge.svg?branch=main(Coverage Status)!:https://coveralls.io/github/danielMugisha/x-press-publishing?branch=main
 # X-Press Publishing
 
 ## Project Overview
