@@ -16,6 +16,9 @@ app.use(bodyParser.json());
 app.use(cors());
 app.use(morgan("dev"));
 
+// express to serve static files
+app.use(express.static("public"));
+
 // attach default router and apply errorhandler middleware to handle errors
 app.use("/api", apiRouter);
 app.use(errorHandler());
